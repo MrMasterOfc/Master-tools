@@ -115,7 +115,7 @@ sleep 0.4
           (0) Return
 "
 
-      elif [ "$choice" = 2 ];
+     elif [ "$choice" = 2 ];
       then
       # In here It is writen how to make termux terminal cool...
       echo -e "
@@ -202,7 +202,7 @@ Kali Linux is an open-source, Debian-based Linux
  		
  								
 Step1 => pkg install git
-Step2=> git clone https://github.com/MrMasterOfc/kali-linux-in-termux
+Step2=> git clone https://github.com/DRACULA-HACK/kali-linux-in-termux
 Step3=> cd kali-linux-in-termux
 Step4=> chmod +x *
 Step5=> bash kali.sh
@@ -319,7 +319,7 @@ echo -e "
     Fsociety Contains All Tools Used in Mr. Robot Series
 ××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 Steps to install Fsociety in termux :-
-=> git clone https://github.com/MrMasterOfc/fsociety
+=> git clone https://github.com/Manisso/fsociety
 Tools present in it are:-
 Menu
 ______________________
@@ -428,7 +428,7 @@ Installation and usage guide
 $ apt-get update -y
 $ apt-get upgrade -y
 $ pkg install git -y
-$ git clone https://github.com/MrMasterOfc/T-LOAD
+$ git clone https://github.com/noob-hackers/T-LOAD
 $ ls
 $ cd T-LOAD
 $ ls
@@ -542,7 +542,7 @@ bash zphisher.sh
 apt update
 apt upgrade
 pkg install git python -y
-git clone https://github.com/MrMasterOfc/fsociety
+git clone https://github.com/Manisso/fsociety
 
 elif [ "$instool" = 6 ];
        then
