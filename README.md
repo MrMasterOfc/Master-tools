@@ -1,4 +1,4 @@
-# Master-tools-inf
+# Master-tools
 
 
 Master-tools-inf is smell script you can
@@ -6,7 +6,7 @@ Install Same tools and you can know about the tools
 
 In this tool Kali Nethunter is ther for android.
 
-# By MASTER-HACK
+# By MASTER-MIND
 
 
 # Installing commands for termux
